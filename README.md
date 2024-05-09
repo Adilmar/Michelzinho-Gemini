@@ -2,6 +2,8 @@
 Michelzinho: Um Chatbot com Inteligência Artificial Generativa para Auxiliar Pessoas com Transtorno do Espectro Autista
 O Michelzinho é um chatbot inovador que utiliza inteligência artificial generativa para auxiliar pessoas com Transtorno do Espectro Autista (TEA). Desenvolvido como parte do projeto Michelzinho idealizado por Adilmar Coelho Dantas, o chatbot oferece uma experiência interativa e personalizada para auxiliar no aprendizado e desenvolvimento de habilidades sociais e emocionais.
 
+WhatsApp: https://wa.me/message/32XJKQZ245PXF1?src=qr 
+
 # Recursos e Benefícios
 
 Aprendizado sobre Emoções: Através de jogos e atividades lúdicas, o Michelzinho ajuda os usuários a identificar, compreender e expressar suas próprias emoções, além de reconhecer as emoções dos outros.
@@ -24,4 +26,4 @@ O projeto Michelzinho e o chatbot inovador receberam reconhecimento por sua rele
 
 O Michelzinho representa um marco na utilização da inteligência artificial para auxiliar pessoas com TEA. Através de uma experiência interativa, personalizada e acessível, o chatbot promove o aprendizado, o desenvolvimento de habilidades e a inclusão social, contribuindo para uma vida mais plena e significativa para seus usuários. A iniciativa inspira e abre caminho para novas pesquisas e aplicações da inteligência artificial em prol da saúde mental e da educação especial.
 
-
+![banner-michel-2](https://github.com/Adilmar/Michelzinho-Gemini/assets/6667216/e4ea806a-91f6-411e-b985-82f4043580e0)
